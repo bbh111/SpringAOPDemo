@@ -1,0 +1,3 @@
+Đề bài: Tạo 1 ứng dụng đăng nhập, core concern : check authenticate username, password,
+cross-cutting concern: log Time login, ghi vào file
+Advice: before và after joinpoint core concern
